@@ -287,5 +287,3 @@ lasso.coef
 #### 군집1에 대한 예측모델을 잘 맞으나, 군집 2에 대한 예측이 너무 부정확하다.
 #### 데이터를 다시 살펴볼 필요가 있다.
 write.csv(RE.c, file = 'preRE.csv', row.names=T)
-
-RE
